@@ -107,6 +107,7 @@ int least(int c)
 
         return nc;
     }
+// THIS FUNCTION IMPLEMENTS COIN CHANGE PROBLEM
 int coin_change(int deno[],int size_deno,vector<vector<int> >& quan)
 {
     int i,j,x,y;
